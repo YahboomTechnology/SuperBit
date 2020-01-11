@@ -1,0 +1,30 @@
+{
+    
+    "SuperBit.RGB_Program|block": "RGB編程燈",
+    "SuperBit.Music|block": "音樂播放|%index",
+    "SuperBit.Servo|block": "舵機(180)|編號 %num|角度 %value",
+    "SuperBit.Servo2|block": "舵機(270)|編號 %num|角度 %value",
+    "SuperBit.Servo3|block": "舵機(360)|編號 %num|方向 %pos|速度 %value",
+    "SuperBit.MotorRun|block": "直流電機|%index|速度(-255~255) %speed",
+    "SuperBit.MotorRunDual|block": "雙電機速度|%motor1|%speed1|%motor2|%speed2",
+    "SuperBit.MotorStopAll|block": "停止所有電機",
+    "SuperBit.StepperDegree|block": "步進電機(28BYJ-48) |%index|角度 %degree",
+    "SuperBit.StepperTurn|block": "步進電機(28BYJ-48) |%index|转 %turn|圈数",
+    "SuperBit.StepperDual|block": "雙步進電機(角度) |B1 %degree1| B2 %degree2",
+    "SuperBit.enPos.forward|block": "正轉",
+    "SuperBit.enPos.reverse|block": "反轉",
+    "SuperBit.enPos.stop|block": "停止",
+    "SuperBit.PWMOFF|block":  "關閉PWM輸出|%index",
+    "SuperBit.CarRun|block":"控制小車|%direction|速度(0~255) %speed",
+    "SuperBit.Handle|block":"手柄遙控|X值 %x|Y值 %y",
+    "SuperBit.enCarRun.Forward|block": "前進",
+    "SuperBit.enCarRun.Back|block": "後退",
+    "SuperBit.enCarRun.TurnLeft|block": "向左轉",
+    "SuperBit.enCarRun.TurnRight|block": "向右轉",
+    "SuperBit.enCarRun.Spin_Left|block": "左旋",
+    "SuperBit.enCarRun.Spin_Right|block": "右旋",
+    "SuperBit.enCarRun.CarStop|block": "停止",
+  
+    "{id:category}SuperBit": "SuperBit"
+    
+}

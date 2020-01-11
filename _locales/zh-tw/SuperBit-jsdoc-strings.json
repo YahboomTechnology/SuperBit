@@ -1,0 +1,18 @@
+{
+    
+    "SuperBit.RGB_Program": "使用此方塊替換Neopixel中的strip方塊",
+    "SuperBit.Music": "播放音樂",
+    "SuperBit.Servo": "控制舵機角度（0°~180°）",
+    "SuperBit.Servo2": "控制舵機角度（0°~270°）",
+    "SuperBit.Servo3": "控制舵機角度（0°~360°）",
+    "SuperBit.MotorRun": "控制單個電機轉動速度（-255~255），正數向前，負數向後",
+    "SuperBit.MotorRunDual": "同時控制兩個電機轉動速度（-255~255），正數向前，負數向後",
+    "SuperBit.MotorStopAll": "四個電機都停止",
+    "SuperBit.StepperDegree": "控制單個步進電機轉動的角度",
+    "SuperBit.StepperTurn": "控制單個步進電機轉動的圈數",
+    "SuperBit.StepperDual": "同時控制兩個步進電機轉動的角度",
+    "SuperBit.PWMOFF": "設置電機和舵機的PWM輸出為零",
+    "SuperBit.CarRun": "控制積木小車運動",
+    "SuperBit.Handle": "搖桿控制積木小車運動，X和Y取值範圍（-512~512）"
+
+}

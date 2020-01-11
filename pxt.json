@@ -1,0 +1,26 @@
+{
+    "name": "SuperBit",
+    "version": "2.0.1",
+    "description": "Extension for YahBoom SuperBit V2.0.1",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:lzty634158/pxt-neopixel"
+    },
+    "files": [
+        "README.md",
+        "main.blocks",
+        "main.ts",
+        "_locales/zh-cn/SuperBit-strings.json",
+        "_locales/zh-cn/SuperBit-jsdoc-strings.json",
+        "_locales/zh-tw/SuperBit-strings.json",
+        "_locales/zh-tw/SuperBit-jsdoc-strings.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
